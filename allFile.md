@@ -15,6 +15,7 @@ Our group offers a new metric that is more appropriate for computational social 
 Computational social science projects ranging from text as data, to image analysis, to high resolution violence forecasting have accelerated over the last several years. Many of their innovations have been driven by flexible machine learning algorithms. The Violence Early Warning System (ViEWS) provides one example. The teams most recent predictions are presented in the fiture below.
 
 ![](ViEWSMapGridCell.png){ width=75% }
+
 ## Approach
 
 As the map makes clear, violence prediction has strong spatial components; yet these are not considered in bin-by-bin machine learning performance metrics, such as accuracy, AUC, precision, recall, F1, the Brier Score, and others. 
